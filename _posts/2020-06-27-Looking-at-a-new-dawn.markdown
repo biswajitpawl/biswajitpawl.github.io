@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /posts/looking-at-a-new-dawn
 title:  "Looking at a new dawn..."
 ---
 I remember starting a blog in December 2013. It was around Christmas. GitHub Pages were not that prevalent back then. I wanted to move from using Tumblr to something that would feel a bit more like a personal website. So I thought of giving GitHub Pages a try.
